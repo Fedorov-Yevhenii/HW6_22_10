@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/EX3.dir/main.c.o -o EX3 

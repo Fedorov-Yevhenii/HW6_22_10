@@ -1,0 +1,3 @@
+/home/vboxuser/CLionProjects/HW6_22_10/EX1/build/CMakeFiles/EX1.dir
+/home/vboxuser/CLionProjects/HW6_22_10/EX1/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/CLionProjects/HW6_22_10/EX1/build/CMakeFiles/rebuild_cache.dir
