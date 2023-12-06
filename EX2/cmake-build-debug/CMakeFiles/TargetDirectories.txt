@@ -1,3 +1,0 @@
-/home/vboxuser/CLionProjects/HW6_22_10/EX2/cmake-build-debug/CMakeFiles/EX2.dir
-/home/vboxuser/CLionProjects/HW6_22_10/EX2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vboxuser/CLionProjects/HW6_22_10/EX2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
